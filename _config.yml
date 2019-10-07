@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+title:               Ed Henrey
+tagline:             Finding the patterns/My Journey into Data Visualizations
+url:                 http://edhenrey.github.io
 paginate:            2
 baseurl:             ""
 
